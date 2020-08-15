@@ -1,6 +1,6 @@
 name = "WFDB"
 uuid = "803f460a-5458-4a91-aa64-df7c1af16fea"
-authors = ["Brian Chen <ToucheSir@users.noreply.github.com> and contributors"]
+authors = ["Brian Chen and contributors"]
 version = "0.1.0"
 
 [compat]
