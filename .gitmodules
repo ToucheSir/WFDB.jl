@@ -1,0 +1,3 @@
+[submodule "wfdb-python"]
+	path = wfdb-python
+	url = https://github.com/MIT-LCP/wfdb-python
